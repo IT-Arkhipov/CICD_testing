@@ -1,3 +1,4 @@
 selenium
 pytest
+requests
 testit-adapter-pytest
