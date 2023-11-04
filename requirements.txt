@@ -1,4 +1,2 @@
-selenium
 pytest
-requests
-testit-adapter-pytest
+allure-pytest
